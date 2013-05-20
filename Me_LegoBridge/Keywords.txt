@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Me_LegoBridge
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Me_SoftI2cMaster	KEYWORD1
+Me_LegoMotor		KEYWORD1
+Me_LegoUltrasonic	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin		KEYWORD2
+read		KEYWORD2
+restart		KEYWORD2
+start		KEYWORD2
+stop		KEYWORD2
+write		KEYWORD2
+sendMotor1	KEYWORD2
+sendMotor2	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
